@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158458873507",
+    "project_id": "kutuphane-ad3dd",
+    "storage_bucket": "kutuphane-ad3dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158458873507:android:684de641881f41c66fe116",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kurulu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_9iSXt49i7EgnryRJru-ehMnyPsnaeQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
